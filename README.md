@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1sc411o7Jb/](https://www.bilibili.com/video/BV1sc411o7Jb/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot的电影购票微信小程序带后台管理(源码+数据库)101
 
